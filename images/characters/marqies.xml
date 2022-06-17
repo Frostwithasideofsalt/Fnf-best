@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="marqies.png"><SubTexture name="marqies idle0000" x="1522" y="0" width="400" height="395" frameX="-234" frameY="-75" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies idle0001" x="0" y="500" width="399" height="398" frameX="-235" frameY="-68" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies idle0002" x="738" y="0" width="399" height="398" frameX="-235" frameY="-64" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies idle0003" x="886" y="898" width="398" height="396" frameX="-235" frameY="-58" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies idle0004" x="886" y="898" width="398" height="396" frameX="-235" frameY="-58" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies idle0005" x="886" y="898" width="398" height="396" frameX="-235" frameY="-58" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies forward0000" x="0" y="898" width="439" height="397" frameX="-236" frameY="-28" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies forward0001" x="439" y="898" width="447" height="397" frameX="-232" frameY="-28" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies down0000" x="399" y="500" width="383" height="398" frameX="-236" frameY="-28" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies down0001" x="1137" y="0" width="385" height="398" frameX="-235" frameY="-28" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies back0000" x="1137" y="398" width="345" height="396" frameX="-238" frameY="-50" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies back0001" x="782" y="500" width="325" height="396" frameX="-249" frameY="-50" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies up0000" x="369" y="0" width="369" height="438" frameX="-238" frameY="-68" frameWidth="837" frameHeight="500" />
+<SubTexture name="marqies up0001" x="0" y="0" width="369" height="500" frameX="-238" frameY="-68" frameWidth="837" frameHeight="500" />
+</TextureAtlas>

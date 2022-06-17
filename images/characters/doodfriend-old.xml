@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="doodfriend.png"><SubTexture name="doodfriend down0000" x="329" y="864" width="329" height="418" frameX="-95" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend down0001" x="0" y="864" width="329" height="419" frameX="-95" frameY="-53" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend Miss-D0000" x="658" y="864" width="329" height="418" frameX="-95" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend Idlealt0000" x="1342" y="0" width="361" height="418" frameX="-68" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend Idlealt0001" x="978" y="423" width="363" height="421" frameX="-67" frameY="-49" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend Idlealt0002" x="978" y="0" width="364" height="423" frameX="-66" frameY="-47" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend Idlealt0003" x="0" y="439" width="364" height="425" frameX="-66" frameY="-45" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend idle0000" x="364" y="439" width="364" height="425" frameX="-66" frameY="-45" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend right0000" x="1342" y="418" width="340" height="418" frameX="-102" frameY="-51" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend right0001" x="1342" y="836" width="340" height="418" frameX="-101" frameY="-51" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend missR0000" x="987" y="864" width="340" height="418" frameX="-102" frameY="-51" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend left0000" x="0" y="1283" width="345" height="418" frameX="-79" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend left0001" x="345" y="1283" width="348" height="418" frameX="-76" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend missL0000" x="693" y="1283" width="348" height="418" frameX="-76" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend up0000" x="0" y="0" width="326" height="439" frameX="-100" frameY="-32" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend up0001" x="652" y="0" width="326" height="438" frameX="-100" frameY="-33" frameWidth="500" frameHeight="500" />
+<SubTexture name="doodfriend missU0000" x="326" y="0" width="326" height="439" frameX="-100" frameY="-32" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "doodfriend idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "doodfriend down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "doodfriend left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "doodfriend right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "doodfriend up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "doodfriend missL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "doodfriend Miss-D"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "doodfriend missU"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "doodfriend missR"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doodfriend",
+	"position": [
+		-120,
+		300
+	],
+	"healthicon": "bf2",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		75,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

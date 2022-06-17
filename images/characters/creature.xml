@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="creature.png"><SubTexture name="creature down0000" x="1375" y="130" width="503" height="83" frameX="-74" frameY="-611" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature down0001" x="743" y="1099" width="374" height="147" frameX="-139" frameY="-546" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature down0002" x="0" y="1099" width="332" height="205" frameX="-160" frameY="-489" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature down0003" x="986" y="825" width="312" height="233" frameX="-170" frameY="-460" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature left0000" x="0" y="509" width="339" height="316" frameX="-146" frameY="-383" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature left0001" x="656" y="509" width="347" height="302" frameX="-115" frameY="-404" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature left0002" x="637" y="825" width="349" height="254" frameX="-78" frameY="-446" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature up0000" x="0" y="0" width="206" height="509" frameX="-215" frameY="-183" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature up0001" x="206" y="0" width="264" height="429" frameX="-186" frameY="-263" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature up0002" x="470" y="0" width="338" height="367" frameX="-154" frameY="-325" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature idle0000" x="1375" y="0" width="514" height="130" frameX="-85" frameY="-585" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature idle0001" x="332" y="1099" width="411" height="200" frameX="-84" frameY="-514" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature idle0002" x="287" y="825" width="350" height="266" frameX="-84" frameY="-448" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature idle0003" x="339" y="509" width="317" height="303" frameX="-84" frameY="-410" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature right0000" x="808" y="0" width="288" height="339" frameX="-238" frameY="-376" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature right0001" x="1096" y="0" width="279" height="301" frameX="-233" frameY="-412" frameWidth="668" frameHeight="717" />
+<SubTexture name="creature right0002" x="0" y="825" width="287" height="274" frameX="-217" frameY="-440" frameWidth="668" frameHeight="717" />
+</TextureAtlas>

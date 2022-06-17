@@ -1,0 +1,50 @@
+{
+	"storyName": "kinda sus",
+	"difficulties": "original,nerfed",
+	"hideFreeplay": false,
+	"weekBackground": "C",
+	"freeplayColor": [
+		129,
+		117,
+		232
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bussin'",
+			"harold",
+			[
+				129,
+				117,
+				232
+			]
+		],
+		[
+			"Dither",
+			"marqies",
+			[
+				129,
+				117,
+				232
+			]
+		],
+		[
+			"Anaphora",
+			"Doubles",
+			[
+				129,
+				117,
+				232
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Banger",
+	"hiddenUntilUnlocked": false
+}

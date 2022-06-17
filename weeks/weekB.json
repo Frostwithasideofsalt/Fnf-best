@@ -1,0 +1,59 @@
+{
+	"storyName": "Jeremy weak",
+	"difficulties": "original,nerfed",
+	"hideFreeplay": false,
+	"weekBackground": "B",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"banger",
+			"creature",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"bop",
+			"creature",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"thebestsonganyonecouldevercreateinthehistoryoffnfdeadassfr",
+			"creature2",
+			[
+				60,
+				0,
+				20
+			]
+		],
+		[
+			"coprophobia",
+			"creature2",
+			[
+				60,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Banger",
+	"hiddenUntilUnlocked": false
+}
