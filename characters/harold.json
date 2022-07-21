@@ -9,7 +9,7 @@
 			"fps": 12,
 			"anim": "idle",
 			"indices": [],
-			"name": "marqies2 idle"
+			"name": "harold idle"
 		},
 		{
 			"offsets": [
@@ -20,7 +20,7 @@
 			"fps": 12,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "marqies2 down"
+			"name": "harold down"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 12,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "marqies2 left"
+			"name": "harold left"
 		},
 		{
 			"offsets": [
@@ -39,10 +39,10 @@
 				0
 			],
 			"loop": false,
-			"fps": 12,
+			"fps": 8,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "marqies2 right"
+			"name": "harold right"
 		},
 		{
 			"offsets": [
@@ -53,25 +53,25 @@
 			"fps": 12,
 			"anim": "singUP",
 			"indices": [],
-			"name": "marqies2 up"
+			"name": "harold up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/marqies2",
+	"image": "characters/harold",
 	"position": [
-		-450,
-		30
+		-40,
+		200
 	],
-	"healthicon": "marqies",
+	"healthicon": "harold2",
 	"flip_x": false,
 	"healthbar_colors": [
-		151,
-		130,
-		231
+		199,
+		48,
+		245
 	],
 	"camera_position": [
 		-180,
-		90
+		80
 	],
 	"sing_duration": 4,
 	"scale": 1

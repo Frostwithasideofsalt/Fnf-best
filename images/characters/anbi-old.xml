@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anbi.png"><SubTexture name="anbi idle0000" x="0" y="497" width="378" height="436" frameX="-486" frameY="-240" frameWidth="1354" frameHeight="712" />
+<SubTexture name="anbi idle0001" x="834" y="0" width="352" height="462" frameX="-500" frameY="-215" frameWidth="1354" frameHeight="712" />
+<SubTexture name="anbi idle0002" x="518" y="0" width="316" height="487" frameX="-521" frameY="-186" frameWidth="1354" frameHeight="712" />
+<SubTexture name="anbi idle0003" x="243" y="0" width="275" height="494" frameX="-547" frameY="-172" frameWidth="1354" frameHeight="712" />
+<SubTexture name="anbi idle0004" x="0" y="0" width="243" height="497" frameX="-561" frameY="-165" frameWidth="1354" frameHeight="712" />
+</TextureAtlas>

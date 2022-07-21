@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="marqies2.png"><SubTexture name="marqies2 down0000" x="0" y="712" width="628" height="455" frameX="-382" frameY="-254" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 down0001" x="1220" y="0" width="622" height="454" frameX="-383" frameY="-251" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 idle0000" x="1842" y="0" width="605" height="447" frameX="-383" frameY="-246" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 idle0001" x="624" y="1167" width="637" height="453" frameX="-382" frameY="-248" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 idle0002" x="0" y="1167" width="624" height="454" frameX="-382" frameY="-248" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 idle0003" x="1220" y="454" width="611" height="451" frameX="-383" frameY="-247" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 left0000" x="628" y="712" width="554" height="448" frameX="-430" frameY="-245" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 left0001" x="1261" y="1167" width="565" height="448" frameX="-419" frameY="-245" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 right0000" x="610" y="1621" width="606" height="444" frameX="-415" frameY="-257" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 right0001" x="0" y="1621" width="610" height="446" frameX="-402" frameY="-251" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 yes0000" x="1842" y="447" width="358" height="447" frameX="-458" frameY="-246" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 up0000" x="0" y="0" width="611" height="712" frameX="-384" frameY="0" frameWidth="1354" frameHeight="712" />
+<SubTexture name="marqies2 up0001" x="611" y="0" width="609" height="712" frameX="-384" frameY="0" frameWidth="1354" frameHeight="712" />
+</TextureAtlas>

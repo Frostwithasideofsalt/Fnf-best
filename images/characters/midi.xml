@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="midi.png"><SubTexture name="midi Idle0000" x="19" y="0" width="21" height="29" frameX="-4" frameY="-3" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Idle0001" x="61" y="0" width="21" height="28" frameX="-4" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Idle0002" x="104" y="0" width="21" height="27" frameX="-5" frameY="-5" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Idle0003" x="82" y="0" width="22" height="28" frameX="-4" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Up0000" x="0" y="0" width="19" height="30" frameX="-6" frameY="-2" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Up0001" x="40" y="0" width="21" height="29" frameX="-4" frameY="-3" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Up0002" x="82" y="28" width="20" height="28" frameX="-5" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Up0003" x="61" y="28" width="19" height="28" frameX="-6" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi down0000" x="0" y="59" width="16" height="28" frameX="-10" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi down0001" x="16" y="59" width="17" height="28" frameX="-10" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi down0002" x="33" y="59" width="18" height="28" frameX="-9" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi down0003" x="51" y="59" width="19" height="28" frameX="-7" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Right0000" x="0" y="87" width="24" height="27" frameX="-3" frameY="-5" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Right0001" x="24" y="87" width="27" height="27" frameX="-4" frameY="-5" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Right0002" x="0" y="30" width="24" height="29" frameX="-3" frameY="-3" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Right0003" x="24" y="30" width="23" height="29" frameX="-2" frameY="-3" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Left0000" x="70" y="59" width="25" height="28" frameX="-1" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Left0001" x="125" y="0" width="28" height="23" frameX="-4" frameY="-9" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Left0002" x="51" y="87" width="31" height="27" frameX="-1" frameY="-5" frameWidth="32" frameHeight="32" />
+<SubTexture name="midi Left0003" x="82" y="87" width="24" height="27" frameX="0" frameY="-5" frameWidth="32" frameHeight="32" />
+</TextureAtlas>

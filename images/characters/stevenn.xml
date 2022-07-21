@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stevenn.png"><SubTexture name="stevenn idle0000" x="0" y="256" width="76" height="48" frameX="-24" frameY="-80" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn idle0001" x="224" y="256" width="76" height="44" frameX="-24" frameY="-84" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn right0000" x="76" y="256" width="72" height="48" frameX="-28" frameY="-80" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn right0001" x="148" y="256" width="76" height="48" frameX="-24" frameY="-80" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn up0000" x="256" y="0" width="68" height="52" frameX="-24" frameY="-76" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn up0001" x="256" y="52" width="68" height="48" frameX="-24" frameY="-80" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn down0000" x="324" y="0" width="68" height="40" frameX="-24" frameY="-88" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn down0001" x="256" y="100" width="68" height="44" frameX="-24" frameY="-84" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn left0000" x="256" y="144" width="68" height="44" frameX="-20" frameY="-84" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn left0001" x="256" y="188" width="68" height="44" frameX="-24" frameY="-84" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn miss0000" x="324" y="80" width="48" height="36" frameX="-24" frameY="-92" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn combo0000" x="324" y="40" width="48" height="40" frameX="-24" frameY="-88" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn die0000" x="0" y="0" width="128" height="128" frameX="0" frameY="0" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn die0001" x="128" y="0" width="128" height="128" frameX="0" frameY="0" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn die0002" x="0" y="128" width="128" height="128" frameX="0" frameY="0" frameWidth="128" frameHeight="128" />
+<SubTexture name="stevenn die0003" x="128" y="128" width="128" height="128" frameX="0" frameY="0" frameWidth="128" frameHeight="128" />
+</TextureAtlas>
